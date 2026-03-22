@@ -11,7 +11,7 @@ if total > 100:
     print ("Congrats you received a 10% discount!")
 
 elif total > 60:
-    discount = total * .6
+    discount = total * 0.06
     total = total - discount 
     print ("Congrats you received a 6% discount!")
 
