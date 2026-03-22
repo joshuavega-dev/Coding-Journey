@@ -1,7 +1,7 @@
 #ATM BANK SYSTEM
 balance = 0.00
 
-print("\n ATM BANK SYSTEM")
+
 while True: 
     print("\nATM BANK SYSTEM")
     print("1. Balance")
