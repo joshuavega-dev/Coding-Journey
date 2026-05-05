@@ -1,0 +1,14 @@
+Public Class Form1
+
+    ' When form loads
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Label1.Text = "Status: Ready"
+    End Sub
+
+    ' When button is clicked
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        MessageBox.Show("I love Virus <3")
+        Label1.Text = "Status: Button Clicked!"
+    End Sub
+
+End Class
