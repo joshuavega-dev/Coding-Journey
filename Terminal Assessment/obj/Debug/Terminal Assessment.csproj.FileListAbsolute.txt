@@ -1,0 +1,10 @@
+D:\Virtual purple\Terminal Assessment\bin\Debug\Terminal Assessment.exe.config
+D:\Virtual purple\Terminal Assessment\bin\Debug\Terminal Assessment.exe
+D:\Virtual purple\Terminal Assessment\bin\Debug\Terminal Assessment.pdb
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal Assessment.csproj.AssemblyReference.cache
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal_Assessment.Form1.resources
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal_Assessment.Properties.Resources.resources
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal Assessment.csproj.GenerateResource.cache
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal Assessment.csproj.CoreCompileInputs.cache
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal Assessment.exe
+D:\Virtual purple\Terminal Assessment\obj\Debug\Terminal Assessment.pdb
